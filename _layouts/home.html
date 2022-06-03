@@ -60,8 +60,8 @@ layout: default
         {{ words | divided_by: 180 | plus: 1 }} min read.
       </span>
 
-      {%- if site.show_excerpts -%}
-      {{ post.excerpt }}
+      {%- if post.description -%}
+      <div>{{ post.description }}</div>
       {%- endif -%}
     </li>
     {%- endfor -%}

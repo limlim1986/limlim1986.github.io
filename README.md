@@ -1,7 +1,5 @@
 # limlim1986.github.io
 
-
-
 ## Running Locally
 To run this blog locally you should use visual studio code with dev containers. To get started with dev containers make sure to follow the official guide https://code.visualstudio.com/docs/remote/containers
 
