@@ -5,7 +5,7 @@ categories: typescript
 tags: typescript eslint prettier husky  
 description: This basic tutorial will walk you through the very basics of setting up a typescript development environment from the ground up
 ---
-Many who start a typescript project use some scaffolding tool to get started quickly. Those tools abstract the complexity of setting up a good typescript environment so you can focus on coding productively asap. Unfortunately this leads to many developers not understanding what is actually happening behind the scenes. This basic tutorial will walk you through the very basics of setting up a typescript development environment from the ground up so you can get a better understanding of the parts involved and how they work. 
+Most who start a typescript project use scaffolding tools to get started quickly. Those tools abstract the complexity of setting up a good typescript environment so you can focus on coding productively asap. Unfortunately this leads to many developers not understanding what is actually happening behind the scenes. This basic tutorial will walk you through the very basics of setting up a typescript development environment from the ground up so you can get a better understanding of the parts involved and how they work. 
 
 ## Prerequisites
 To be able to follow along with this tutorial you will first of all need to have some things installed. 
